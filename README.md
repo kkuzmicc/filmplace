@@ -3,22 +3,22 @@
 Filmplace is a marketplace for instant cameras, film, and accessories. Users can create storefronts, list products, browse and filter active listings, add items to a cart, and manage orders.
 
 ## Explore the marketplace
-<img width="320" height="240" alt="1" src="https://github.com/user-attachments/assets/870fc22c-ec17-4e0e-87fd-2b3b257c2357" /><br>
+<img width="480" height="360" alt="1" src="https://github.com/user-attachments/assets/870fc22c-ec17-4e0e-87fd-2b3b257c2357" /><br>
 
 ## Inspect products and add them to your cart
-<img width="320" height="240" alt="2" src="https://github.com/user-attachments/assets/2695104f-e4f9-4512-a02e-f964e938d419" />
+<img width="480" height="360" alt="2" src="https://github.com/user-attachments/assets/2695104f-e4f9-4512-a02e-f964e938d419" />
 
 
 ## Check your cart
-<img width="320" height="240" alt="3" src="https://github.com/user-attachments/assets/de0c3761-2fd8-4491-8e26-3714e54decbc" />
+<img width="480" height="360" alt="3" src="https://github.com/user-attachments/assets/de0c3761-2fd8-4491-8e26-3714e54decbc" />
 
 
 ## Add a storefront of your own - start selling
-<img width="320" height="240" alt="4" src="https://github.com/user-attachments/assets/d6f4a4cf-7897-40a6-805d-ed3d0afaa4a5" />
+<img width="480" height="360" alt="4" src="https://github.com/user-attachments/assets/d6f4a4cf-7897-40a6-805d-ed3d0afaa4a5" />
 
 
 ## Add a listing to your storefront
-<img width="320" height="240" alt="5" src="https://github.com/user-attachments/assets/7d4913c1-c955-4078-9781-586fdedb4c58" />
+<img width="480" height="360" alt="5" src="https://github.com/user-attachments/assets/7d4913c1-c955-4078-9781-586fdedb4c58" />
 
 
 
